@@ -1,0 +1,38 @@
+/* css reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+    height: auto;
+    background-color:whitesmoke;
+    color: #fff;
+    font-size: 1.3vw;
+   }
+   #heading {
+    color:#1E1E1E
+   }
+  
+  #heading {
+    max-width: 750px;
+    margin: 4rem auto;
+    padding: .6rem;
+  }
+  #main {
+      padding: 0% 20% 0% 20%;
+  }
+  
+  #title {
+    font-size: 2.9rem;
+    text-align: center;
+    line-height: 1.2;
+    padding: .7rem;
+  }
+  
+  #description {
+    font-size: 1.1rem;
+    
